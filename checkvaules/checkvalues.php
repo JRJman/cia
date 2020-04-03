@@ -3,7 +3,7 @@
 
     <?php
     ?>
-<form action="welcome.php" method="get">
+<form action="welcome.php" method="post">
 
     Naam: <input type="text" name="name"><br><br>
     E-mail: <input type="text" name="email"><br><br>
